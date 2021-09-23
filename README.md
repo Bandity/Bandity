@@ -1,4 +1,4 @@
-### Hi there, I'm Gabriel Leal - aka [Bandity](twitch.tv/bandity) 👋
+### Hi there, I'm Gabriel Leal - aka [Bandity](https://www.twitch.tv/bandity) 👋
 
 [![Website](https://img.shields.io/website?label=tropadatuga.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://tropadatuga.com)
 [![Bandity](https://img.shields.io/twitter/follow/Bandity_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Bandity_)
@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="bandity.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.bandity.net)
+[<img align="left" alt="bandity.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://tropadatuga.com)
 [<img align="left" alt="Bandity | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCCc8auKbnbIwpjQNHHA4Rsw)
 [<img align="left" alt="Bandity | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Bandity_)
 [<img align="left" alt="Bandity | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/bandity-leal-90076616a/)
